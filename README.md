@@ -135,11 +135,6 @@ This dashboard enables quantitative analysts to:
 
 ---
 
-## 🔗 Live Demo
-
-👉 https://your-render-url.onrender.com
-
----
 
 ## 📦 How to Run Locally
 
